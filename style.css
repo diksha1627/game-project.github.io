@@ -47,7 +47,7 @@ body{
     font-size: 40px;
     text-align: center;
 }
-.scoreCont{
+#scoreCont{
     font-size: 25px;
     position: absolute;
     color: white;
